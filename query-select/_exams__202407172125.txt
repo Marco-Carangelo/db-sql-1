@@ -1,0 +1,23 @@
+|id   |course_id|date      |hour    |location       |address                         |
+|-----|---------|----------|--------|---------------|--------------------------------|
+|48   |10       |2020-06-20|14:15:00|Piano 2        |Rotonda Loredana 103 Piano 3    |
+|368  |74       |2020-06-20|14:20:00|Appartamento 94|Strada Pellegrini 53            |
+|598  |120      |2020-06-20|15:20:00|Appartamento 24|Incrocio Cristyn 66 Piano 5     |
+|1.078|216      |2020-06-20|16:40:00|Appartamento 42|Strada Lorenzo 2 Appartamento 63|
+|1.463|293      |2020-06-20|16:00:00|Piano 6        |Via Monia 86                    |
+|1.578|316      |2020-06-20|14:45:00|Piano 8        |Borgo Jelena 1                  |
+|1.663|333      |2020-06-20|14:40:00|Piano 2        |Strada Kayla 16                 |
+|1.988|398      |2020-06-20|15:20:00|Appartamento 28|Via Sarita 3 Appartamento 56    |
+|2.298|460      |2020-06-20|15:45:00|Appartamento 36|Contrada Alessio 44 Piano 4     |
+|2.433|487      |2020-06-20|16:00:00|Appartamento 78|Strada Gallo 7 Piano 7          |
+|2.578|516      |2020-06-20|16:45:00|Piano 2        |Borgo Noah 404 Piano 2          |
+|2.873|575      |2020-06-20|14:45:00|Piano 2        |Strada Mercedes 84              |
+|3.423|685      |2020-06-20|15:30:00|Appartamento 87|Via Rizzo 7                     |
+|3.948|790      |2020-06-20|16:45:00|Piano 7        |Contrada Russo 240              |
+|4.558|912      |2020-06-20|16:40:00|Piano 7        |Strada D'amico 7 Appartamento 15|
+|5.013|1.003    |2020-06-20|14:45:00|Appartamento 10|Piazza Costa 7                  |
+|5.473|1.095    |2020-06-20|16:00:00|Piano 7        |Via Vinicio 89                  |
+|5.593|1.119    |2020-06-20|16:20:00|Piano 4        |Via Raniero 306 Piano 0         |
+|6.103|1.221    |2020-06-20|14:40:00|Piano 1        |Incrocio Sorrentino 1           |
+|6.328|1.266    |2020-06-20|16:30:00|Piano 5        |Via Ileana 1 Appartamento 27    |
+|6.403|1.281    |2020-06-20|16:00:00|Piano 4        |Rotonda Giobbe 4                |

@@ -1,0 +1,3 @@
+|insegnanti_senza_telefono|
+|-------------------------|
+|50                       |
